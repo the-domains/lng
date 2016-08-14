@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.3507589
 color:
   saturation: 0.8145025
   brandStrength: 0.2668085
@@ -21,6 +22,5 @@ color:
     - '#AA8C56'
     - '#C4AE99'
   lightness: 0.8752108
-typography_spectrum: 0.7571669
 layout_spectrum: 0.7394603
 name: líng
