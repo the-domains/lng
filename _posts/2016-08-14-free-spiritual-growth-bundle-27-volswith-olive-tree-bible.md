@@ -9,8 +9,8 @@ description: >-
   Olive Tree Bible Software is quite a good Bible app for your tablet or even
   mobile. Now they are giving out free spiritual growth bundle, with as many as
   27 volumes for you to download and grow!
-datePublished: '2016-08-14T19:37:36.018Z'
-dateModified: '2016-08-14T19:37:20.299Z'
+datePublished: '2016-08-14T19:43:56.003Z'
+dateModified: '2016-08-14T19:43:16.564Z'
 title: Free Spiritual Growth Bundle (27 vols)with Olive Tree Bible App
 author: []
 sourcePath: _posts/2016-08-14-free-spiritual-growth-bundle-27-volswith-olive-tree-bible.md
@@ -61,34 +61,6 @@ Here is the complete list of this bundle offer:
 * [Prayers][24]
 * [Words of Warning for Daily Life][25]
 * [Words of Wisdom for Daily Life][26]
-
-* New International Version (NIV)
-* English Standard Version - ESV
-* New King James Version - NKJV
-* King James Version - KJV
-* Pilgrim's Progress
-* Daily Light Devotional - King James Version (KJV)
-* Spurgeon's Morning and Evening Devotional
-* Olive Tree One Year Daily Devotional
-* Olive Tree Summer Daily Devotional
-* Olive Tree 30 Day Devotional
-* Holiness: Its Nature, Hindrances, Difficulties, and Roots
-* On the Incarnation of the Word
-* Dark Night of the Soul
-* The Power of Prayer
-* The Hidden Life of Prayer
-* Hymns of Praise
-* All of Grace
-* Come Ye Children
-* Weighed and Wanting
-* Around the Wicket Gate
-* Holy In Christ
-* A Serious Call to a Devout and Holy Life
-* A Plain Account of Christian Perfection
-* An Appeal to All That Doubt
-* Prayers
-* Words of Warning for Daily Life
-* Words of Wisdom for Daily Life
 
 Head over to[Olive Tree website,][27] download the app, and follow the instrutions to claim your free Bible bundles! Valid till August 15 only!
 
