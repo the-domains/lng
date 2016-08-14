@@ -1,14 +1,26 @@
-layout_spectrum: 0.943707
-typography_spectrum: 0.6450253
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.7571669
 color:
   saturation: 0.8145025
   brandStrength: 0.2668085
-  lightness: 0.8752108
+  rhythmicContrast: 0.4418212
   brandColors:
     - '#F6EEEC'
     - '#44462F'
     - '#656241'
     - '#AA8C56'
     - '#C4AE99'
-  rhythmicContrast: 0.4418212
+  lightness: 0.8752108
+layout_spectrum: 0.943707
 name: líng
