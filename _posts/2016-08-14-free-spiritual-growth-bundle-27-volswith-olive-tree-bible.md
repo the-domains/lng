@@ -1,24 +1,27 @@
 ---
-description: ''
-datePublished: '2016-08-14T20:00:07.093Z'
-inNav: false
-inLanguage: null
-author: []
+datePublished: '2016-09-02T08:36:46.119Z'
 sourcePath: _posts/2016-08-14-free-spiritual-growth-bundle-27-volswith-olive-tree-bible.md
-hasPage: false
-via: {}
-authors: []
-title: Free Spiritual Growth Bundle (27 vols)with Olive Tree Bible App
-publisher: {}
-keywords: []
-dateModified: '2016-08-14T19:59:59.300Z'
 inFeed: true
+authors: []
+hasPage: false
+keywords: []
+author: []
+via: {}
+dateModified: '2016-09-02T08:36:45.277Z'
+title: Free Spiritual Growth Bundle (27 vols) with Olive Tree Bible App
+publisher: {}
+description: >-
+  Olive Tree Bible Software is quite a good Bible app for your tablet or even
+  mobile. Now they are giving out free spiritual growth bundle, with as many as
+  27 volumes for you to download and grow!
+inLanguage: null
+inNav: false
 starred: true
 _type: Blurb
 
 ---
-# Free Spiritual Growth Bundle (27 vols)with Olive Tree Bible App
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eb4c6dd11f07500c92e7c24500463aa0/croprotate.jpg?cropheight=504&cropwidth=743&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fab093edd-1670-43ee-ba3b-9ec76098b09e.jpg&x=0&y=24)
+# Free Spiritual Growth Bundle (27 vols) with Olive Tree Bible App
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8345cd745e5c8fe77788692cbcee1659fbca9dc3.jpg)
 
 Olive Tree Bible Software is quite a good Bible app for your tablet or even mobile. Now they are giving out free spiritual growth bundle, with as many as 27 volumes for you to download and grow!
 
